@@ -1,1 +1,0 @@
-require 'mapquest_directions'

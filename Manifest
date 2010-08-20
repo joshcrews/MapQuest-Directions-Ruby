@@ -1,9 +1,0 @@
-README.textile
-Rakefile
-init.rb
-lib/mapquest_directions.rb
-spec/lib/mapquest_directions.xml
-spec/lib/mapquest_directions_fail.xml
-spec/lib/mapquest_directions_spec.rb
-spec/spec_helper.rb
-Manifest
