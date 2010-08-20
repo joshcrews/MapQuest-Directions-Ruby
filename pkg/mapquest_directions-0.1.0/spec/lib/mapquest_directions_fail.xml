@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response><info><statusCode>500</statusCode><messages><message>Server is not configured to authorize geocode requests from this client</message></messages><copyright><imageUrl>http://tile21.mqcdn.com/res/mqlogo.gif</imageUrl><imageAltText>© 2010 MapQuest, Inc.</imageAltText><text>© 2010 MapQuest, Inc.</text></copyright></info><collections/></response>
